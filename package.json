@@ -1,7 +1,7 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "e-commerce-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "e-commerce backend",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,13 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git+https://github.com:carlos-2mm/e-commerce-backend.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "node",
+    "sequelize",
+    "express",
+    "e-commerce"
+  ],
+  "author": "Carlos Macias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com:carlos-2mm/e-commerce-backend.git"
+  },
+  "homepage": "https://github.com/carlos-2mm/e-commerce-backend#readme",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
